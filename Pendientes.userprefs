@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{874C6249-69F8-473D-AB3B-9AA51EC1C189}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Estado de Pendientes">
+    <Files>
+      <File FileName="Pendientes/IFileHelper.cs" Line="6" Column="44" />
+      <File FileName="Pendientes/App.xaml.cs" Line="24" Column="4" />
+      <File FileName="Pendientes/Data/TodoItemDatabase.cs" Line="29" Column="4" />
+      <File FileName="Pendientes/Models/TodoItem.cs" Line="11" Column="3" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iOS/FileHelper.cs" Line="22" Column="4" />
+      <File FileName="Droid/FileHelper.cs" Line="16" Column="5" />
+      <File FileName="Pendientes/PendientesPage.xaml.cs" Line="33" Column="21" />
+      <File FileName="Pendientes/TodoItemPage.xaml" Line="6" Column="10" />
+      <File FileName="Pendientes/TodoItemPage.xaml.cs" Line="32" Column="4" />
+      <File FileName="Estado de Pendientes" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pendientes" expanded="True">
+            <Node name="Pendientes" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="PendientesPage.xaml" expanded="True" />
+              <Node name="TodoItemPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Pendientes.Droid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Pendientes.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Pendientes.Droid PreferredExecutionTarget="Android.LGD80059da837b" />
+  <MonoDevelop.Ide.ItemProperties.Pendientes.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF9F6F35-D35D-42F4-9E40-E1740B4FCBDD" />
+</Properties>
