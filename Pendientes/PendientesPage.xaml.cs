@@ -17,7 +17,7 @@ namespace Pendientes
 
 			// Reset the 'resume' id, since we just want to re-start here
 			((App)Application.Current).ResumeAtTodoId = -1;
-			listView.ItemsSource = await App.Database.GetItemsAsync();
+			listViews.ItemsSource = await App.Database.GetItemsAsync();
 		}
 
 		async void OnItemAdded(object sender, EventArgs e)
